@@ -1,2 +1,0 @@
-# BGHelper
-Boardgame helper website
