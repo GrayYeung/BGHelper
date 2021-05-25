@@ -1,4 +1,7 @@
+import logo from "./logo.svg";
 import "./App.css";
+import Component1 from "./components/Component1";
+import Component2 from "./components/Component2";
 import MainMenu from "./components/MainMenu";
 
 function App() {
