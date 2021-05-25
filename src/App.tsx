@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Component1 from "./components/Component1";
+import Component2 from "./components/Component2";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
         <Component1/>
+        <Component2/>
         <a
           className="App-link"
           href="https://reactjs.org"
